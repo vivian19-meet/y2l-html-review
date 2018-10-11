@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+#advice{
+    color:lightcoral
+}
+.i{
+    color:green;
+}
+@keyframes bounce {
+    0% {
+        transform: scale(0.1)
+    }
+    60% {
+        transform: scale(0.1)
+    }
+    100% {
+        transform: scale(0.1)
+    }
+}
+
